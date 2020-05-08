@@ -6,3 +6,4 @@ mtCars = datasets::mtcars
 
 summary(mtCars)
 print(names(mtCars))
+print(length(names(mtCars)))
